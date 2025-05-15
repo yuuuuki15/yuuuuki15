@@ -35,7 +35,7 @@
 <!-- Project cards -->
 | [swifty-companion](https://github.com/yuuuuki15/swifty_companion) |
 |---|
-|<div style="display: flex;align-items:center;gap:10px;"><a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="300" alt="swifty-companion demo"/></a><a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="300" alt="swifty-companion demo2"/></a></div>|
+|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="300" alt="swifty-companion demo"/></a><a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="300" alt="swifty-companion demo2"/></a>|
 | A mobile application to search student info for 42 students |
 
 
