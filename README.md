@@ -33,26 +33,10 @@
 <h2>Projects</h2>
 
 <!-- Project cards -->
-<div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <th colspan="2" style="text-align: center; border:1px solid #e1e4e8; padding:8px; background:#f6f8fa;">swifty-companion</th>
-    </tr>
-    <tr>
-      <td align="center" width="220" style="border:1px solid #e1e4e8; border-radius:10px; padding:16px; background:white;">
-        <img src="assets/swifty-companion.gif" width="200" alt="swifty-companion demo"/>
-        <br/>
-        <img src="assets/swifty-companion2.gif" width="200" alt="swifty-companion demo2"/>
-      </td>
-      <td align="left" width="350" style="border:1px solid #e1e4e8; border-radius:10px; padding:16px; background:white; vertical-align:top;">
-        <p style="font-size:14px;">
-          Swifty Companion is a mobile application that allows you to search and view information about 42 students using the official 42 API.<br><br>
-          The app displays user details, skills, and completed projects, and is designed with a modern, flexible layout to ensure compatibility across various mobile devices.<br><br>
-          Error handling and secure OAuth2 authentication are implemented for a smooth and safe user experience.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+| [swifty-companion](https://github.com/yuuuuki15/swifty_companion) ||
+|---|---|
+|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="300" height="250" alt="swifty-companion demo"/></a>|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="300" height="250" alt="swifty-companion demo2"/></a>|
+| A mobile application to search student info for 42 students | |
+
 
 <!-- Add more project cards as needed -->
