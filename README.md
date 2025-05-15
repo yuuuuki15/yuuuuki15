@@ -33,10 +33,10 @@
 <h2>Projects</h2>
 
 <!-- Project cards -->
-| [swifty-companion](https://github.com/yuuuuki15/swifty_companion) ||
-|---|---|
-|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="300" height="250" alt="swifty-companion demo"/></a>|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="300" height="250" alt="swifty-companion demo2"/></a>|
-| A mobile application to search student info for 42 students | |
+| [swifty-companion](https://github.com/yuuuuki15/swifty_companion) |
+|---|
+|<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="300" height="250" alt="swifty-companion demo"/></a><a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="300" height="250" alt="swifty-companion demo2"/></a>|
+| A mobile application to search student info for 42 students |
 
 
 <!-- Add more project cards as needed -->
