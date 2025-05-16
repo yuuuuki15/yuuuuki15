@@ -16,7 +16,7 @@
 
 | [transcendence](https://github.com/yuuuuki15/transcendence) |
 |---|
-|<a href="https://github.com/yuuuuki15/transcendence"><img src="assets/transcendence.webp" width="400" alt="tanscendence demo"/></a>|
+|<a href="https://github.com/yuuuuki15/transcendence"><img src="assets/transcendence.webp" width="400" alt="tanscendence demo"/></a><a href="https://github.com/yuuuuki15/transcendence"><img src="assets/transcendence2.webp" width="400" alt="tanscendence demo"/></a>|
 | A Single Page Application (SPA) based on Django framework that implements a Pong game |
 
 ## Language/Framework/Tools
