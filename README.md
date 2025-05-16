@@ -14,6 +14,10 @@
 |<a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty1.webp" width="400" alt="swifty-companion demo"/></a><a href="https://github.com/yuuuuki15/swifty_companion"><img src="assets/swifty2.webp" width="400" alt="swifty-companion demo2"/></a>|
 | A mobile application to search student info for 42 students |
 
+| [transcendence](https://github.com/yuuuuki15/transcendence) |
+|---|
+|<a href="https://github.com/yuuuuki15/transcendence"><img src="assets/swifty1.webp" width="400" alt="tanscendence demo"/></a><a href="https://github.com/yuuuuki15/transcendence"><img src="assets/swifty2.webp" width="400" alt="transcendence demo2"/></a>|
+| A Single Page Application (SPA) based on Django framework that implements a Pong game |
 
 ## Language/Framework/Tools
 <div>
