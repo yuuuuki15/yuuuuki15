@@ -19,6 +19,12 @@
 |<a href="https://github.com/yuuuuki15/transcendence"><img src="assets/transcendence.webp" width="400" alt="tanscendence demo"/></a><a href="https://github.com/yuuuuki15/transcendence"><img src="assets/transcendence2.webp" width="400" alt="tanscendence demo"/></a>|
 | A Single Page Application (SPA) based on Django framework that implements a Pong game |
 
+| [red-tetris](https://github.com/pbeheyt/red-tetris) |
+|---|
+| Under implementation |
+| A Single Page Application (SPA) that implements a Tetris game. Server runs on Node.js, communication uses HTTP and socket.io, vue framework for frontend. |
+
+
 ## Language/Framework/Tools
 <div>
 <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="C"/>
