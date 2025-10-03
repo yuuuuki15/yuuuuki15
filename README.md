@@ -21,7 +21,7 @@
 
 | [red-tetris](https://github.com/pbeheyt/red-tetris) |
 |---|
-| Under implementation |
+| <a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris1.webp" width="400" alt="red-tetris demo" /></a><a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris2.webp" width="400" alt="red-tetris demo" /></a><a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris3.webp" width="400" alt="red-tetris demo" /></a>  |
 | A Single Page Application (SPA) that implements a Tetris game. Server runs on Node.js, communication uses HTTP and socket.io, vue framework for frontend. |
 
 
