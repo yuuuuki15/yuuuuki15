@@ -24,6 +24,11 @@
 | <a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris1.webp" width="400" alt="red-tetris demo" /></a><a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris2.webp" width="400" alt="red-tetris demo" /></a><a href="https://github.com/yuuuuki15/red_tetris"><img src="assets/redtetris3.webp" width="400" alt="red-tetris demo" /></a>  |
 | A Single Page Application (SPA) that implements a Tetris game. Server runs on Node.js, communication uses HTTP and socket.io, vue framework for frontend. |
 
+| [Inception-of-Things](https://github.com/yuuuuki15/Inception-of-Things) |
+|---|
+| <a href="https://github.com/yuuuuki15/Inception-of-Things"><img src="assets/inception_of_things_image1.webp" width="400" alt="iot1" /></a>
+| Implemented a containerized infrastructure using K3s/K3d and Vagrant, focusing on Kubernetes cluster orchestration and automated deployment. Established a full GitOps pipeline with Argo CD for seamless synchronization between GitHub repositories and the production-like cluster. |
+
 
 ## Language/Framework/Tools
 <div>
