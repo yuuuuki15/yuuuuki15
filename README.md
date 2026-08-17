@@ -1,4 +1,4 @@
-<h2>Welcome!👋 My name is Yuki, I'm a student at 42 Paris.</h2>
+<h2>Welcome!👋 My name is Yuki, I'm a student at 42 Lausanne.</h2>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuuuki15&theme=blue-green&show_icons=true&hide_border=true&layout=compact" height="145" alt="languages graph"  /> -->
 
